@@ -1,0 +1,5 @@
+com\luka\currency\service\CurrencyService.class
+com\luka\currency\controller\CurrencyController.class
+com\luka\currency\ExchangeRateApplication.class
+com\luka\currency\ServletInitializer.class
+com\luka\currency\GlobalExceptionHandler.class
